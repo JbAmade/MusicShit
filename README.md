@@ -15,4 +15,4 @@ Just remove the Music app from multitasking and re-open it.
 Do this operation every time you enable/disable the tweak. 
 
 ## Credits
-I learnt to make this tweak thank to [this cool tutorial](https://cwcaude.github.io/project/tutorial/2020/07/12/iOS-tweak-dev-3.html) by [@cwcaude](https://github.com/cwcaude), but I strongly recommend reading it from Part 1 !
+I learnt to make this tweak thanks to [this cool tutorial](https://cwcaude.github.io/project/tutorial/2020/07/12/iOS-tweak-dev-3.html) by [@cwcaude](https://github.com/cwcaude), but I strongly recommend reading it from Part 1 !
