@@ -10,7 +10,7 @@ And that's it !
 I decided not to provide any ! Try it out to see !  
 Or if you're familiar with the code, _just read it_ :) 
 
-## Buh it's not working
+## Bruh it's not working
 Just remove the Music app from multitasking and re-open it.  
 Do this operation every time you enable/disable the tweak. 
 
