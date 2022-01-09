@@ -1,0 +1,9 @@
+Package: com.jb.musicshit
+Name: musicshit
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Replace Music app labels with funny texts !
+Maintainer: Jb
+Author: Jb
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
